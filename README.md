@@ -6,4 +6,6 @@ Unique part count includes any local or external refrenced component. Each uniqu
 level are ignored. Unique part count provides a good indicator of overhead and size resulting from refrences.
 
 Total part count counts all local and external components, including the same component across different assembly levels and 
-multiple inserts at the same level. Patterns are an example. It descibes how big ( in component count ) and assembly is.
+multiple inserts at the same level. Patterns are an example. It descibes how big ( in component count ) and assembly is.  
+
+![Dialog](assets/dialog.png)  
